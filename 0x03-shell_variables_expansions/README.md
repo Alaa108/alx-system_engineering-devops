@@ -1,1 +1,1 @@
-Create scripts that descripe these tasks
+write scripts that descripe these tasks
